@@ -1,4 +1,3 @@
-# scraper
 
 Scraping
 ========
@@ -21,4 +20,5 @@ apps_in_spanish_and_tagalog - array of numbers, sorted ascending - App identifie
 apps_with_insta_in_name - array of numbers, sorted ascending - App identifiers of all apps apps that have “insta” in the name (case insensitive)
 
 Execute Code
+============
 python scraper.py input_csv_path 
